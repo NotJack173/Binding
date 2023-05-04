@@ -10,3 +10,5 @@ CREDITS TO,
   
   thanks to all these people to helping unblockersGG become what it is today!
   (sadly website is private and only open to my school)
+
+Go checkout my collection of bookmarklets for cheating hacking and pranking at: https://github.com/NotJack173/Bookmarklet-collection
