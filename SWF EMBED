@@ -1,8 +1,10 @@
 please copy and paste this code into google sites embed code! 
+Dont forget to fill out the Name of the swf file
+(Game has to be in the files list with .swf in it)
 
 
 <script src="https://opcysss.github.io/opcysss-Ruffle-Embedded/ruffle/ruffle.js"></script>
 <div class="swf"dir="ltr" style="text-align: left;" trbidi="on">
-        <embed height="700" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://notjack173.github.io/Binding/581168_Isaac_demo_Secure.swf" type="application/x-shockwave-flash" width="950"></embed>
+        <embed height="700" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://notjack173.github.io/Binding/{Name of the swf game (CAPITALS INCLUDED)}.swf" type="application/x-shockwave-flash" width="950"></embed>
 </div>
 <!--Please Dont steal this code it was made by NotJack173-->
