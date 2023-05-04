@@ -1,6 +1,9 @@
 please copy and paste this code into google sites embed code! 
 Dont forget to fill out the Name of the swf file
 (Game has to be in the files list with .swf in it)
+When there is a space like
+3D Ping Pong add "%20"
+example: 3D%20Ping%20Pong
 
 
 <script src="https://opcysss.github.io/opcysss-Ruffle-Embedded/ruffle/ruffle.js"></script>
